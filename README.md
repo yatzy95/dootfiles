@@ -1,2 +1,2 @@
 # dootfiles
-A repository for dot files
+A repository for dotfiles
